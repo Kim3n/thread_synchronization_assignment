@@ -7,8 +7,6 @@ public class MovieTicketServer {
     public MovieTicketServer(String movieName, int availableSeats) {
         this.movieName = movieName;
         this.availableSeats = availableSeats;
-
-        // TBD
     }
 
     synchronized void bookTicket(String customerName, int numberOfSeats) {
