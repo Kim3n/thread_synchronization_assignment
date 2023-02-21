@@ -4,3 +4,6 @@
 .idea/jarRepositories.xml
 .idea/misc.xml
 .idea/vcs.xml
+target/classes/org/example/booking/MovieTicketClient.class
+target/classes/org/example/booking/MovieTicketServer.class
+target/classes/org/example/Main.class
